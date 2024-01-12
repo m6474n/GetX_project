@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992610081618",
+    "project_id": "getx-bad26",
+    "storage_bucket": "getx-bad26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992610081618:android:3275b8edbb059761cdf88b",
+        "android_client_info": {
+          "package_name": "com.example.getx_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1PSD9sr5TYV4DU3CSfTZ1EWw3tssvsOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
